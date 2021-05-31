@@ -24,12 +24,12 @@
 - Importar la base de datos usando el archivo backup.sql, el cual se encuentra en la carpeta raiz del proyecto
 - Modificar el archivo .env, el cual se encuentra en la carpeta raiz del proyecto:
 
-    DB_CONNECTION=mysql
-    DB_HOST=ip-servidor-db
-    DB_PORT=3306
-    DB_DATABASE=nombre de la base
-    DB_USERNAME=usuario
-    DB_PASSWORD=contraseña
+    DB_CONNECTION=mysql <br>
+    DB_HOST=ip-servidor-db <br>
+    DB_PORT=3306 <br>
+    DB_DATABASE=nombre de la base <br>
+    DB_USERNAME=usuario <br>
+    DB_PASSWORD=contraseña <br>
 - Los usuarios deberan ser ingresados directamente en la base de datos, en la tabla usuarios.
 
 ## Ejecución de la app
