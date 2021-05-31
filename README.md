@@ -1,3 +1,9 @@
+## Descipción
+
+<p align="justify">
+Aplicación desarollada usando Laravel 6, su funcionalidad principal es proporcionar a la empresa un administrador interno de colores. Además que proporciona un servicio externo a clientes para que estos puedan ver la lista de colores.
+</p>
+
 ## Tecnologías
 
 - Laravel 6 como Framework de desarrollo PHP
